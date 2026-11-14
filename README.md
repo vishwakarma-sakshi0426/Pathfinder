@@ -493,13 +493,16 @@ This project is currently maintained by the repository owner. Please consult the
 
 ---
 
-## 👤 Author & Acknowledgements
+## 👤 Authors & Acknowledgements
 
-- **Author & Creator:** [Sakshi Vishwakarma](https://linkedin.com/in/sakshi-vishwakarma)
-- **Inspirations & Resources:**
-  - [Roadmap.sh](https://roadmap.sh/) for community curriculum frameworks.
-  - [Lucide Icons](https://lucide.dev/) for crisp UI icons.
-  - [SerpAPI](https://serpapi.com/) for Google Jobs structured data capabilities.
+### 👤 Authors
+- **[Sakshi Vishwakarma](https://www.linkedin.com/in/sakshi-vishwakarma-28296a37b/)**
+- **[Ronak Agrawal](https://www.linkedin.com/in/ronak-agrawal-a158023a5/)**
+
+### 🌟 Inspirations & Resources
+- [Roadmap.sh](https://roadmap.sh/) for community curriculum frameworks.
+- [Lucide Icons](https://lucide.dev/) for crisp UI icons.
+- [SerpAPI](https://serpapi.com/) for Google Jobs structured data capabilities.
 
 <div align="center">
 
